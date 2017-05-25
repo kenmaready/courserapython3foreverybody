@@ -1,4 +1,4 @@
-# courserapythonforeverybody3
+# courserapython3foreverybody
 A repository for posting .py files from the Python for Everybody Specialization which have been modified to work in Python 3.x
  
 Licensed subject to the Creative Commons Attribution 3.0 Unported License with attribution to Dr. Charles Severance of the University of Michigan.
